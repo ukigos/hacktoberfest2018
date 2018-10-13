@@ -93,6 +93,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Aakash Khaksa | II | IT | |
 | Hardik Mundra | II | IT | |
 | [Shivam Pokhriyal](https://github.com/fs0sp) | II | CSE |[@fs0sp](https://hacktoberfest.digitalocean.com/stats/fs0sp) |
+| [Lakshay Wadhwa](https://github.com/luck-u) | III | CSE | [@luck-u](https://hacktoberfest.digitalocean.com/stats/luck-u)|
 | Ashik Paul | II | CSE | |
 | Aditya Vyas | II | IT | |
 | Divyansh Sharma | III | CSE | |
