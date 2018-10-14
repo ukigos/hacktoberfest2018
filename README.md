@@ -82,6 +82,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Manank Patni](https://github.com/Man-Jain) | II | IT | [@Man-Jain](https://hacktoberfest.digitalocean.com/stats/Man-Jain) |
 | Kanika Agrawal | II | IT | |
 | [Saket Kumar Sankrit](https://github.com/098saket) | III | IT | [@098saket](https://hacktoberfest.digitalocean.com/stats/098saket) | |
+| [Shubham Shrivastava](https://github.com/shrishubham) | II | IT | [@shrishubham](https://hacktoberfest.digitalocean.com/stats/shrishubham) | |
 | [Prudhvi Rambha](https://github.com/prudhvirambha) | III | CSE | [@prudhvirambha](https://hacktoberfest.digitalocean.com/stats/prudhvirambha) | |
 | Abhimanyu Shekhawat | II | IT | |
 | [Yudhishthir Bhunwal](https://github.com/yudhishthirbhunwal) | II | IT | [@yudhishthirbhunwal](https://hacktoberfest.digitalocean.com/stats/yudhishthirbhunwal) |
